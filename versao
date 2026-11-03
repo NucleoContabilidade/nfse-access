@@ -1,5 +1,5 @@
-versao=1.2.15
-url=https://github.com/NucleoContabilidade/nfse-access/releases/download/v1.2.15/NFSe_App_1.2.15.zip
-sha256=81009FEBC21AA8D8C3C4A1005F6FEAAAC333201C93C5CB2D58C9027868A0C03C
+versao=1.2.16
+url=https://github.com/NucleoContabilidade/nfse-access/releases/download/v1.2.16/NFSe_App_1.2.16.zip
+sha256=6B759B12531C27DA650DFBC92977FC4755F3EDFB6DFFCB644DC6F79915223568
 notas=Melhorias e correções
-minima=1.2.15
+minima=1.2.16
