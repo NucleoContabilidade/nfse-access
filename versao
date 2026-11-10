@@ -1,5 +1,5 @@
-versao=1.2.23
-url=https://github.com/NucleoContabilidade/nfse-access/releases/download/v1.2.23/NFSe_App_1.2.23.zip
-sha256=97939F1365928162B05313EAF7B15DE6BF7EE586C1311AB02916266543E5E832
-notas=Melhorias e correções
-minima=1.2.23
+versao=2.0.0
+url=https://github.com/NucleoContabilidade/nfse-access/releases/download/v2.0.0/GerenciadorFiscal_2.0.0.zip
+sha256=EDBD77BD9079E59EA66A2B9D71DBD34335D91B1516CD669959B9F948735238B9
+notas=Gerenciador Fiscal
+minima=2.0.0
