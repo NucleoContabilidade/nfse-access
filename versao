@@ -1,5 +1,5 @@
-versao=2.0.5
-url=https://github.com/NucleoContabilidade/nfse-access/releases/download/v2.0.5/GerenciadorFiscal_2.0.5.zip
-sha256=AB34F6DEBC6BB795315B7F28C9A98232F03D743A875F0EDBC7C8BF4332DF3630
+versao=2.0.6
+url=https://github.com/NucleoContabilidade/nfse-access/releases/download/v2.0.6/GerenciadorFiscal_2.0.6.zip
+sha256=B1FBCA44C28F5329C526596D4801C69CA77F435218A9683AE0EB617D1A75C355
 notas=Melhorias e correções
-minima=2.0.5
+minima=2.0.6
